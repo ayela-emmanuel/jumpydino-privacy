@@ -1,0 +1,10 @@
+{
+  "android": {
+    "latest": "2.2.2",
+    "url": "https://play.google.com/store/apps/details?id=com.sefemma.jumpydinogame"
+  },
+  "ios": {
+    "latest": "2.2.2",
+    "url": ""
+  }
+}
